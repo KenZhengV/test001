@@ -26,7 +26,7 @@
 
 | 变量 | 默认值 | 说明 |
 | :--- | :--- | :--- |
-| `ID` | `62d6d9af-f3b5-4dc7-823b-eef2df922150` | VMess 用户主 ID，用于身份验证，为 UUID 格式 |
+| `ID` | `b9803f50-88e3-48b2-aeda-1c04c25fd21a` | VMess 用户主 ID，用于身份验证，为 UUID 格式 |
 | `AID` | `0` | 为进一步防止被探测所设额外 ID，即 AlterID，范围为 0 至 65535 |
 | `WSPATH` | `/` | WebSocket 所使用的 HTTP 协议路径 |
 
